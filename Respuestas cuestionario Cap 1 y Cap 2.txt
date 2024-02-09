@@ -26,6 +26,14 @@ internet.
 
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
+
+     
+    • Reglas: Son las que definen la forma en la que se realiza la comunicación, establecen un estándar, protocolo, o lenguaje común entre los dispositivos que se comunican
+    • Medios. Es sobre el cual se transfieren los mensajes, pueden ser medios inalámbricos, electricos y opticos
+    • Mensajes: Es la información que viaja a través de los medios siguiendo las reglas de comunicación de cada dispositivo
+    • Dispositivos: Son los que reciben, envían, direccionan y procesan los mensajes,algunos tienen en cuenta las reglas establecidas de comunicación, algunos actúan como intermediarios, y otros como emisores o receptores de mensajes
+
+
 4. Responda con sus propias palabras:
 A. ¿Qué son los datos?
 B. ¿Qué es una red de datos?
