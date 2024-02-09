@@ -58,12 +58,29 @@ funcionamiento.
     D. Seguridad. Mostrar sus respectivos ejemplos.
 La seguridad en una red se refiere a las medidas y precauciones implementadas para proteger la información que se transmite a través de esa red , Para lograr esto, se utilizan herramientas y procedimientos que actúan como guardianes virtuales, garantizando la privacidad y la integridad de la información en tránsito. Ejemplos: Uso de contraseñas, Ubicación segura de los dispositivos que hacen parte de la infraestructura de red
 
-
-A. Tolerante a fallas,
-B. Escalabilidad,
-C. Calidad del servicio
-D. Seguridad. Mostrar sus respectivos ejemplos.
 6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Las redes orientadas a la conexión y no orientadas a la conexión son dos enfoques diferentes para establecer y gestionar la comunicación entre dispositivos en una red
+	Redes Orientadas a la Conexión:
+
+    • En una red orientada a la conexión, se establece una conexión antes de comenzar la transmisión de datos.
+    • Esta conexión persiste durante toda la sesión de comunicación y se libera al finalizar la sesión.
+    • Antes de enviar datos, se establece una ruta de comunicación, y se confirma que ambas partes están listas para la transmisión.
+    • Proporciona fiabilidad y control sobre la transmisión de datos, ya que se pueden implementar mecanismos de corrección de errores y garantía de entrega.
+	Ejemplo: Llamada telefónica.
+	Antes de hablar, se establece una conexión. Durante la conversación, la conexión persiste, y al finalizar la llamada, se libera la conexión.
+
+Redes No Orientadas a la Conexión:
+
+    • En una red no orientada a la conexión, no se establece una conexión dedicada antes de la transmisión de datos.
+    • Cada paquete de datos se envía de forma independiente y puede seguir rutas diferentes hacia el destino.
+    • No hay confirmación previa de la disponibilidad de la otra parte ni garantía de entrega.
+    • Es menos compleja y más eficiente en términos de recursos, pero puede ser menos fiable en entornos propensos a errores.
+Ejemplo: Envío de correos electrónicos.
+
+Cada correo electrónico se envía de forma independiente sin establecer una conexión persistente. No hay garantía de que el correo electrónico llegue al destino de manera inmediata o en el mismo orden en que se envió.
+
+
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
 8. ¿Por qué importa la calidad del servicio en una red de datos?
