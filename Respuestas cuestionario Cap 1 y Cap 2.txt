@@ -149,6 +149,13 @@ infraestructura digital global y cómo su gestión y regulación pueden
 impactar en la equidad y la eficiencia del acceso a Internet.
 
 
+Los proveedores de Internet desempeñan un papel fundamental en la infraestructura digital global, ya que son los facilitadores clave para el acceso a la información, la comunicación y una variedad de servicios en línea. Su gestión y regulación tienen un impacto significativo en la equidad y la eficiencia del acceso a Internet, afectando a individuos, comunidades y sociedades en general, esto lo logran a traves de lo siguiente:
+- Acceso equitativo: En regiones donde la infraestructura es limitada o los costos son elevados, algunas comunidades pueden quedar excluidas digitalmente. La regulación efectiva puede buscar garantizar que el acceso a Internet sea asequible y disponible para todos, reduciendo así la brecha digital
+- Neutralidad de la red: La gestión de los proveedores de Internet puede influir en la neutralidad de la red, y la regulación puede ser necesaria para evitar prácticas que favorezcan ciertos servicios o limiten el acceso a otros.
+
+- Infraestructura resiliencia: La regulación puede incluir requisitos para la redundancia y la seguridad de la red, garantizando que las interrupciones sean mínimas y que la infraestructura pueda hacer frente a amenazas como ciberataques sin afectar la calidad del servicio
+
+Con todo esto se puede decir entonces que la gestión y regulación de los proveedores de Internet son cruciales para garantizar un acceso equitativo, proteger la privacidad y la seguridad,, y preservar la libertad de expresión en la infraestructura digital global. De esta forma se puede contribuir significativamente a una sociedad digital más justa y eficiente
 
 
 Capitulo 2:
