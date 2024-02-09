@@ -91,6 +91,10 @@ La calidad de servicio (QoS) es la capacidad de una red para proporcionar un mej
     • Monitorear y controlar el tráfico de red: se debe supervisar el estado y el comportamiento del tráfico de red, y ajustar las políticas de QoS según sea necesario para garantizar el cumplimiento de los niveles de servicio acordados.
 
 8. ¿Por qué importa la calidad del servicio en una red de datos?
+
+La calidad de servicio importa en una red de datos porque mejora la experiencia del usuario al proporcionar conexiones más rápidas y confiables. Esto es importante para aplicaciones sensibles al retardo, como llamadas de voz o videoconferencias, también porque al optimizar los recursos,se prioriza el tráfico y se utiliza eficientemente el ancho de banda disponible. Esto evita congestiones y asegura que los recursos se utilicen de manera óptima.
+
+
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,
 
