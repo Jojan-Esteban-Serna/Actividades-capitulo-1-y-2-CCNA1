@@ -35,10 +35,19 @@ funcionamiento.
 
 
 4. Responda con sus propias palabras:
-A. ¿Qué son los datos?
-B. ¿Qué es una red de datos?
-C. ¿Qué entiende por arquitectura de red?
-D. ¿Qué es una red convergente?
+
+     
+    A. ¿Qué son los datos? 
+    • Los datos son información que puede representarse de diversas formas para facilitar su comprensión, para una máquina son bits, para un humano pueden ser símbolos abstractos
+    B. ¿Qué es una red de datos? 
+    • Una red de datos es la infraestructura que permite el intercambio de información
+    C. ¿Qué entiende por arquitectura de red?
+    • Se entiende como el conjunto de tecnologías y protocolos que permiten que las redes de comunicación funcionen de manera eficiente a través de una estructura de comunicación que conecta diferentes dispositivos (como computadoras, teléfonos, etc.) para que puedan intercambiar información y la arquitectura de red es como el diseño y las reglas que hacen posible esa comunicación de manera confiable.
+
+    D. ¿Qué es una red convergente?
+    • Es una red en la que se permite muchos servicios de voz datos y video sobre una misma infraestructura 
+
+
 5. Describir las características de las arquitecturas de red
 A. Tolerante a fallas,
 B. Escalabilidad,
