@@ -11,6 +11,19 @@ internet.
 
 
 2. Describir los factores que afectan la calidad de las comunicaciones.
+
+• Factores externos:
+    • la calidad de la ruta entre el emisor y el receptor,
+    • la cantidad de veces que el mensaje tiene que cambiar la forma,
+    • la cantidad de veces que el mensaje tiene que ser redireccionado o redirigido, y
+    • la cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación,
+    • la cantidad de tiempo asignado para una comunicación exitosa.
+
+• Factores internos:
+    • el tamaño del mensaje,
+    • la complejidad del mensaje, y
+    • la importancia del mensaje.
+
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
 4. Responda con sus propias palabras:
