@@ -98,6 +98,12 @@ La calidad de servicio importa en una red de datos porque mejora la experiencia 
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,
 
+Los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2) son redes de Protocolo de Internet (IP) que se conectan entre sí para formar la infraestructura de Internet. Se diferencian en los siguientes aspectos:
+- Infraestructura: Los proveedores de Internet de Nivel-1 tienen redes globales que se conectan directamente con todos los demás proveedores de Nivel-1 mediante acuerdos de interconexión libres o peering. No compran tránsito IP de ninguna otra red para alcanzar cualquier parte de Internet. Algunos ejemplos de proveedores de Nivel-1 son Cogent Communications, Hibernia Networks y AT&T. Los proveedores de Internet de Nivel-2 tienen redes regionales o nacionales que se conectan con algunos proveedores de Nivel-1 y con otros proveedores de Nivel-2. Compran tránsito IP de los proveedores de Nivel-1 para acceder a partes de Internet que no están cubiertas por sus propias redes o por sus acuerdos de peering. Algunos ejemplos de proveedores de Nivel-2 son Telmex, Movistar y Claro.
+- Alcance: Los proveedores de Internet de Nivel-1 tienen cobertura internacional y pueden ofrecer servicios de Internet a cualquier cliente en cualquier lugar del mundo. Los proveedores de Internet de Nivel-2 tienen cobertura regional o nacional y pueden ofrecer servicios de Internet a clientes dentro de su área de influencia o a través de acuerdos con otros proveedores de Nivel-2 o de Nivel-3.
+- Relaciones comerciales: Los proveedores de Internet de Nivel-1 se caracterizan por tener relaciones de peering libre con todos los demás proveedores de Nivel-1, lo que significa que no se cobran entre sí por el tráfico que intercambian. También se comportan como proveedores de tránsito para los proveedores de Nivel-2 y de Nivel-3, cobrándoles por el acceso a Internet. Los proveedores de Internet de Nivel-2 se caracterizan por tener relaciones de peering libre o de pago con otros proveedores de Nivel-2, dependiendo de la simetría del tráfico y del poder de negociación. También se comportan como usuarios de tránsito de los proveedores de Nivel-1, pagándoles por el acceso a Internet, y como proveedores de tránsito de los proveedores de Nivel-3, cobrándoles por el acceso a Internet.
+
+
 CCNA Exploration
 Aspectos básicos de networking:
 La vida en un mundo centrado en la
