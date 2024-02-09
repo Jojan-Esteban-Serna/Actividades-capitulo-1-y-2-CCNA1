@@ -1,6 +1,15 @@
 Capitulo 1:
+
 1. Listar al menos 5 actividades cotidianas que realiza usted utilizando
 internet.
+     
+    1. Descarga de archivos
+    2. Envío de mensajes
+    3. Subida de archivos
+    4. Streaming de videos
+    5. Visualización de paginas web
+
+
 2. Describir los factores que afectan la calidad de las comunicaciones.
 3. Identificar los componentes clave de cualquier red de datos y describir su
 funcionamiento.
