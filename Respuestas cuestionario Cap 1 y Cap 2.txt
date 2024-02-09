@@ -127,9 +127,28 @@ En Colombia, dos proveedores de Internet destacados son:
 11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
 Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
 datos a través de Internet.
+
+En el mundo interconectado de hoy, donde Internet sirve como eje central de comunicación, comercio e intercambio de información, el papel de los Proveedores de Tránsito IP (Nivel-1 y Nivel-2) es de suma importancia. Estos proveedores juegan un papel vital en asegurar el flujo ininterrumpido de datos a través de la red global, a continuación se enumera porque cada nivel es importante
+
+	Nivel-1 (Tier-1):
+    • Son como las autopistas principales de Internet.
+    • Tienen conexiones directas con todo el mundo online.
+    • No necesitan comprar acceso a Internet, son el internet
+	Nivel-2 (Tier-2):
+    • Son como las carreteras regionales.
+    • Compran acceso a Internet a los proveedores de Nivel-1.
+    • Extienden la conectividad a áreas específicas.
+	¿Por qué importan?:
+
+    • Conectividad global: Aseguran que los datos lleguen a cualquier parte de Internet.
+    • Negocios y usuarios: Dependemos de ellos para acceder a sitios web, correos electrónicos y más.
+    • Son los cimientos invisibles que mantienen Internet funcionando sin problemas.
+
 12. Reflexiona sobre el papel crucial de los proveedores de Internet en la
 infraestructura digital global y cómo su gestión y regulación pueden
 impactar en la equidad y la eficiencia del acceso a Internet.
+
+
 
 
 Capitulo 2:
