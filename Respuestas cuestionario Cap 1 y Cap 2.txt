@@ -49,6 +49,16 @@ funcionamiento.
 
 
 5. Describir las características de las arquitecturas de red
+
+     
+    A. Tolerante a fallas, una red tolerante a fallas es aquella en la que el impacto de un fallo de software o hardware es bajo o inexistente, logrado mediante estrategias de redundancia que permite que estas se puedan recuperar fácilmente de los fallos, ejemplos: servidores de respaldo o redundantes
+    B. Escalabilidad, se refiere a la capacidad de una red de aceptar nuevos usuarios o aplicaciones sin afectar el rendimiento de los usuarios existentes, esto mientras se adicionan nuevas capacidades y rendimiento, ejemplos: balanceo de carga, segmentación
+    C. Calidad del servicio se refiere a la percepción y experiencia de los usuarios al usar servicios como transmisión de videos o audio. La consistencia y la ininterrupción determinan qué tan buena es la experiencia al utilizar estos servicios. Un ejemplo de implementación de QoS sería la asignación de prioridades para diferentes datos de una aplicación
+
+    D. Seguridad. Mostrar sus respectivos ejemplos.
+La seguridad en una red se refiere a las medidas y precauciones implementadas para proteger la información que se transmite a través de esa red , Para lograr esto, se utilizan herramientas y procedimientos que actúan como guardianes virtuales, garantizando la privacidad y la integridad de la información en tránsito. Ejemplos: Uso de contraseñas, Ubicación segura de los dispositivos que hacen parte de la infraestructura de red
+
+
 A. Tolerante a fallas,
 B. Escalabilidad,
 C. Calidad del servicio
