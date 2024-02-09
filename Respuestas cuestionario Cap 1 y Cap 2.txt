@@ -104,18 +104,26 @@ Los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2) son redes de 
 - Relaciones comerciales: Los proveedores de Internet de Nivel-1 se caracterizan por tener relaciones de peering libre con todos los demás proveedores de Nivel-1, lo que significa que no se cobran entre sí por el tráfico que intercambian. También se comportan como proveedores de tránsito para los proveedores de Nivel-2 y de Nivel-3, cobrándoles por el acceso a Internet. Los proveedores de Internet de Nivel-2 se caracterizan por tener relaciones de peering libre o de pago con otros proveedores de Nivel-2, dependiendo de la simetría del tráfico y del poder de negociación. También se comportan como usuarios de tránsito de los proveedores de Nivel-1, pagándoles por el acceso a Internet, y como proveedores de tránsito de los proveedores de Nivel-3, cobrándoles por el acceso a Internet.
 
 
-CCNA Exploration
-Aspectos básicos de networking:
-La vida en un mundo centrado en la
-red
-
-Actividades Del Curso De Redes-Programa de Ingeniería de Sistemas
-
-alcance y relaciones comerciales.
 10. Identifica al menos tres proveedores de Internet de nivel mundial y
 clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la
 jerarquía de la red. Identifica al menos 2 proveedores de internet en
 Colombia.
+
+Proveedores de Internet de Nivel-1 (Tier-1):
+
+    • AT&T: Es una empresa estadounidense de telecomunicaciones que ofrece servicios de voz, datos, video e Internet a nivel mundial. Tiene una red de fibra óptica que cubre más de 1,5 millones de kilómetros y conecta más de 400 ciudades en 60 países.
+    • Orange: Es una empresa francesa de telecomunicaciones que ofrece servicios de telefonía fija, móvil, Internet y televisión en Europa, África y Oriente Medio. Tiene una red de más de 450.000 kilómetros de cables submarinos y terrestres que conectan más de 220 países y territorios.
+    • NTT: Es una empresa japonesa de telecomunicaciones que ofrece servicios de voz, datos, Internet, nube y seguridad a nivel global. Tiene una red de más de 500.000 kilómetros de cables submarinos y terrestres que conectan más de 190 países y regiones.
+Proveedores de Internet de Nivel-2 (Tier-2):
+
+    • Hurricane Electric: Es un proveedor de servicios de Internet que ofrece conectividad IPv4 e IPv6 a nivel global. Tiene una red propia de fibra óptica y más de 200 puntos de intercambio de tráfico.
+    • RETN: Es una empresa de telecomunicaciones que opera una red de transporte de datos que conecta Europa, Asia y América del Norte. Ofrece servicios de tránsito IP, Ethernet, MPLS y SD-WAN.
+    • Vodafone: Es una multinacional de origen británico que ofrece servicios de telefonía móvil, fija, banda ancha y televisión. Tiene presencia en más de 60 países y acuerdos de roaming con otros operadores.
+En Colombia, dos proveedores de Internet destacados son:
+
+    • Claro: Es uno de los principales proveedores de acceso en el país y ofrece servicios de banda ancha y móviles.
+    • Telefónica Colombia (Movistar): También es un proveedor importante en Colombia, ofreciendo servicios de telefonía móvil e Internet..
+
 11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
 Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
 datos a través de Internet.
