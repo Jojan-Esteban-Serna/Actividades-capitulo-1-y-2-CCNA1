@@ -1,3 +1,44 @@
 Capitulo 1:
+1. Listar al menos 5 actividades cotidianas que realiza usted utilizando
+internet.
+2. Describir los factores que afectan la calidad de las comunicaciones.
+3. Identificar los componentes clave de cualquier red de datos y describir su
+funcionamiento.
+4. Responda con sus propias palabras:
+A. ¿Qué son los datos?
+B. ¿Qué es una red de datos?
+C. ¿Qué entiende por arquitectura de red?
+D. ¿Qué es una red convergente?
+5. Describir las características de las arquitecturas de red
+A. Tolerante a fallas,
+B. Escalabilidad,
+C. Calidad del servicio
+D. Seguridad. Mostrar sus respectivos ejemplos.
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+7. Describa que es la calidad del servicio y que se necesita para mantener una
+buena calidad de servicio para las aplicaciones que lo requieren.
+8. ¿Por qué importa la calidad del servicio en una red de datos?
+9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
+Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,
+
+CCNA Exploration
+Aspectos básicos de networking:
+La vida en un mundo centrado en la
+red
+
+Actividades Del Curso De Redes-Programa de Ingeniería de Sistemas
+
+alcance y relaciones comerciales.
+10. Identifica al menos tres proveedores de Internet de nivel mundial y
+clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la
+jerarquía de la red. Identifica al menos 2 proveedores de internet en
+Colombia.
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y
+Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de
+datos a través de Internet.
+12. Reflexiona sobre el papel crucial de los proveedores de Internet en la
+infraestructura digital global y cómo su gestión y regulación pueden
+impactar en la equidad y la eficiencia del acceso a Internet.
+
 
 Capitulo 2:
