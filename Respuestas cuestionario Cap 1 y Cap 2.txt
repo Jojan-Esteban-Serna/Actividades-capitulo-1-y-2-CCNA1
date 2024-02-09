@@ -83,6 +83,13 @@ Cada correo electrónico se envía de forma independiente sin establecer una con
 
 7. Describa que es la calidad del servicio y que se necesita para mantener una
 buena calidad de servicio para las aplicaciones que lo requieren.
+
+La calidad de servicio (QoS) es la capacidad de una red para proporcionar un mejor servicio a determinados tipos de tráfico de red, como las aplicaciones de voz y video, que requieren un alto ancho de banda y una baja latencia. Para mantener una buena calidad de servicio para estas aplicaciones, se necesita:
+
+    • Identificar y clasificar el tráfico de red: se debe asignar una prioridad a los diferentes tipos de tráfico según su importancia y sus requisitos de rendimiento.
+    • Aplicar políticas de QoS: se debe definir y aplicar un conjunto de reglas que determinen cómo se debe tratar el tráfico de cada clase, por ejemplo, asignando un ancho de banda mínimo, limitando el retardo o descartando los paquetes menos importantes.
+    • Monitorear y controlar el tráfico de red: se debe supervisar el estado y el comportamiento del tráfico de red, y ajustar las políticas de QoS según sea necesario para garantizar el cumplimiento de los niveles de servicio acordados.
+
 8. ¿Por qué importa la calidad del servicio en una red de datos?
 9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y
 Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura,
