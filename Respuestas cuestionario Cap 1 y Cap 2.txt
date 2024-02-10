@@ -218,3 +218,18 @@ referencia.
 	mientras que un modelo de referencia Proporciona una referencia común para	mantener la consistencia en todos los tipos de protocolos y servicios de red y no está diseñado para ser una especificación de implementación, sino para establecer una base común.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+Modelo TCP/IP:
+		- Capa de aplicación: Representa datos para el usuario más el control de codificación y de diálogo
+		- Capa de transporte: Admite la comunicación entre distintos dispositivos de distintas redes.
+		- Capa de internet: Determina la mejor ruta a través de la red.
+		- Capa de acceso a la red:  Controla los dispositivos del hardware y los medios que forman la red.
+ 
+Modelo OSI:
+		- Capa de aplicación: La capa de Aplicación proporciona los medios para la conectividad de extremo a extremo entre individuos de la red humana que usan redes de datos.
+		- Capa de presentación: La capa de Presentación proporciona una representación común de los datos transferidos entre los servicios de la capa de Aplicación.
+		- Capa de sesión: La capa de Sesion proporciona servicios a la capa de Presentacién para organizar su dialogo y administrar el intercambio de datos.
+		- Capa de transporte: La capa de Transporte define los servicios para segmentar, transferir y reensamblar los datos para las comunicaciones individuales entre dispositivos finales.
+		- Capa de red: La capa de Red proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados.
+		- Capa de enlace de datos: Los protocolos de la capa de Enlace de datos describen los métodos para intercambiar tramas de datos entre dispositivos en un medio comun.
+		- Capa física: Los protocolos de la capa Fisica describen los| medios mecanicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones fisicas para la transmisién de bits hacia y desde un dispositivo de red.
