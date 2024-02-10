@@ -204,6 +204,13 @@ Una Unidad de Datos del Protocolo (PDU) es una unidad de información transmitid
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Los protocolos son reglas predeterminadas que rigen las comunicaciones entre dispositivos o personas. Los protocolos de red describen las funciones y los servicios que se deben realizar en cada capa del modelo de referencia OSI o TCP/IP para asegurar el intercambio exitoso de datos entre los hosts de origen y destino.
+	
+	El proceso de encapsulamiento consiste en agregar información adicional a los datos de la aplicación, como encabezados o tráilers, a medida que bajan por el stack de protocolos en el host de origen. Esta información sirve para identificar, direccionar, secuenciar, verificar y transportar los datos a través de la red. Cada capa del stack de protocolos encapsula los datos que recibe de la capa superior de acuerdo con el protocolo que utiliza. La forma que adopta una sección de datos en cada capa se denomina unidad de datos del protocolo (PDU). El proceso de encapsulación se invierte en el host de destino, donde los datos se desencapsulan y suben por el stack de protocolos hasta la aplicación de destino.
+
+	El nombre que adopta cada PDU en cada capa del modelo TCP/IP se encuentra ilustrado en el siguiente grafico: https://pixeldrain.com/u/duRH9Dqg
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de
 referencia.
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
