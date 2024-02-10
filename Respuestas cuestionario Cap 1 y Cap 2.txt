@@ -187,6 +187,10 @@ INTERNETWORK E INTERNET.
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
+
+La diferencia entre Tarjeta de red (NIC) Puerto fisico e interfaz de red es la siguiente:
+La tarjeta de interfaz de red (NIC) es un dispositivo o componente que se instala en una computadora u otro dispositivo host para proporcionar la conexión física con la red, mientras el puerto físico es un conector o toma en un dispositivo de red, como un switch o un router, donde se inserta el medio que conecta con otro dispositivo, por otro lado la Interfaz de red es un puerto especializado de un dispositivo de internetworking, como un router, que se conecta con redes individuales. La interfaz de red también puede tener una dirección física, como una dirección MAC, que identifica el dispositivo en la red local
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
