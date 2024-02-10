@@ -162,6 +162,13 @@ Capitulo 2:
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
+
+La estructura de una red se puede describir en términos de:
+    • Dispositivos finales: son los que generan o reciben los mensajes, como computadoras, impresoras, teléfonos, cámaras, etc.
+    • Dispositivos intermedios: son los que conectan y administran los dispositivos finales, como switches, routers, firewalls, etc.
+    • Medios de red: son los que proporcionan el canal por el que viajan los mensajes, como cables, fibras ópticas o transmisiones inalámbricas.
+    • Servicios y procesos: son los programas de comunicación que se ejecutan en los dispositivos finales e intermedios, como aplicaciones, protocolos, etc
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
