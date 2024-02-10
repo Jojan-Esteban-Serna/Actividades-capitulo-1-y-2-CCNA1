@@ -171,6 +171,15 @@ La estructura de una red se puede describir en términos de:
 
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
+
+    • Tanto LAN como WAN son tipos específicos de redes, mientras que "Red" es un término más general que puede referirse a cualquier conjunto de dispositivos interconectados.
+
+    • LAN se refiere a redes locales y tiene un alcance geográfico limitado, mientras que WAN se extiende sobre áreas más amplias, conectando múltiples LAN.
+
+    • "Internetwork" se refiere a la interconexión de redes, incluyendo tanto LAN como WAN, y puede involucrar dispositivos de internetworking como routers.
+
+    • Internet, por otro lado, es la red más grande y global, que interconecta redes a nivel mundial y proporciona acceso a recursos y servicios a una escala sin precedentes.
+    
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
