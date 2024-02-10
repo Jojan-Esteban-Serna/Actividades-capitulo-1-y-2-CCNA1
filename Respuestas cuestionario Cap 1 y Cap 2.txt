@@ -193,6 +193,9 @@ La tarjeta de interfaz de red (NIC) es un dispositivo o componente que se instal
 
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Se dice que un protocolo es independiente de la tecnología porque un protocolo no especifica cómo se debe realizar una función en particular, sino sólo qué funciones se requieren de una regla de comunicación, Esto permite que la implementación de un protocolo sea compatible con diferentes tipos de hardware y software, y que pueda adaptarse a los cambios tecnológicos. Por ejemplo, el protocolo HTTP no define qué lenguaje de programación se usa para crear un navegador web, ni qué sistema operativo se ejecuta en el servidor web, ni cómo se detectan los errores. Sólo define el formato y el contenido de las solicitudes y respuestas que se intercambian entre el cliente y el servidor web.
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
