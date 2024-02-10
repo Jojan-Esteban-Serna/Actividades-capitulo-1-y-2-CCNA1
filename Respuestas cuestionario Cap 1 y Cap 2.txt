@@ -179,8 +179,12 @@ INTERNETWORK E INTERNET.
     • "Internetwork" se refiere a la interconexión de redes, incluyendo tanto LAN como WAN, y puede involucrar dispositivos de internetworking como routers.
 
     • Internet, por otro lado, es la red más grande y global, que interconecta redes a nivel mundial y proporciona acceso a recursos y servicios a una escala sin precedentes.
-    
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+    • Una internetwork es una conexión de redes que pertenecen a diferentes organizaciones o proveedores, y que usan protocolos comunes para comunicarse. Una internetwork puede ser privada o pública, y puede tener diferentes propósitos y servicios.
+    • Internet es la internetwork más conocida, ampliamente utilizada y accesible al público en general1. Internet se crea por la interconexión de redes que pertenecen a los Proveedores de servicios de Internet (ISP), que ofrecen servicios de red convergente de información a millones de usuarios en todo el mundo
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
 interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
