@@ -198,6 +198,9 @@ Se dice que un protocolo es independiente de la tecnología porque un protocolo 
 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
 (PDU).
+
+Una Unidad de Datos del Protocolo (PDU) es una unidad de información transmitida en una red que sigue un protocolo de comunicación específico. En el contexto de las redes de computadoras, cada capa del modelo OSI (Open Systems Interconnection) utiliza PDUs para intercambiar información entre los dispositivos. Cada capa del modelo OSI tiene su propia PDU, y estas se utilizan para encapsular y transportar datos a través de la red, en el modelo OSI dependiendo de la capa pueden ser: Trama (Frame) en la capa de datos, Paquete (Packet) en la capa de red, Segmento (Segment)en la capa de transporte, Mensaje (Message), en la capa de aplicacion
+
 7. Explicar la función de los protocolos en las comunicaciones de redes y para
 qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
 adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
